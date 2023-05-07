@@ -35,7 +35,9 @@ import deltaShoppe from './company/deltashoppe.jpeg';
 
 import java from './tech/java.png';
 import angular from './tech/angular.png';
-import sangular from './tech/sangular.png';
+import laravel from './tech/laravel.png';
+import nextjs from './tech/nextjs.png';
+import postgresql from './tech/postgresql.png';
 
 export {
     logo,
@@ -71,5 +73,7 @@ export {
     deltaShoppe,
     java,
     angular,
-    sangular
+    laravel,
+    nextjs,
+    postgresql
 };

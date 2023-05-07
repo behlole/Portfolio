@@ -12,13 +12,11 @@ import {
     tailwind,
     nodejs,
     mongodb,
-    git,
     figma,
     docker,
     carrent,
     jobit,
-    tripguide,
-    threejs, cloudtek, aksaSds, deltaShoppe, java, angular, sangular,
+    tripguide, cloudtek, aksaSds, deltaShoppe, java, angular, laravel, nextjs, postgresql, git,
 } from "../assets";
 
 export const navLinks = [
@@ -57,32 +55,16 @@ const services = [
 
 const technologies = [
     {
-        name: "HTML 5",
-        icon: html,
-    },
-    {
-        name: "CSS 3",
-        icon: css,
-    },
-    {
-        name: "JavaScript",
-        icon: javascript,
-    },
-    {
-        name: "TypeScript",
-        icon: typescript,
+        name: "NextJs",
+        icon: nextjs,
     },
     {
         name: "React JS",
         icon: reactjs,
     },
     {
-        name: "Redux Toolkit",
-        icon: redux,
-    },
-    {
-        name: "Tailwind CSS",
-        icon: tailwind,
+        name: "Angular",
+        icon: angular,
     },
     {
         name: "Node JS",
@@ -93,25 +75,41 @@ const technologies = [
         icon: java,
     },
     {
+        name: "Laravel",
+        icon: laravel,
+    },
+    {
+        name: "Redux Toolkit",
+        icon: redux,
+    },
+    {
+        name: "JavaScript",
+        icon: javascript,
+    },
+    {
+        name: "TypeScript",
+        icon: typescript,
+    },
+    {
+        name: "Tailwind CSS",
+        icon: tailwind,
+    },
+    {
         name: "MongoDB",
         icon: mongodb,
     },
     {
-        name: "Angular",
-        icon: angular,
-    },
-    {
-        name: "git",
-        icon: git,
-    },
-    {
-        name: "figma",
-        icon: figma,
+        name: "PostgreSQL",
+        icon: postgresql,
     },
     {
         name: "docker",
         icon: docker,
     },
+    {
+        name: 'git',
+        icon: git
+    }
 ];
 
 const experiences = [
