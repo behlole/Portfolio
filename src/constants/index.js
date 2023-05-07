@@ -178,27 +178,99 @@ const experiences = [
 const testimonials = [
     {
         testimonial:
-            "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-        name: "Sara Lee",
-        designation: "CFO",
-        company: "Acme Co",
-        image: "https://randomuser.me/api/portraits/women/4.jpg",
+            "Behlole is a web-app wizard, he made sure to deliver on time. Will be looking forward to hiring him again. Impressed with is grip on the technicalities involved in the dev-stack he is working in.",
+        name: "Areeb Ali",
+        designation: "Client",
+        company: "Fiver",
+        image: "https://randomuser.me/api/portraits/men/1.jpg",
     },
     {
         testimonial:
-            "I've never met a web developer who truly cares about their clients' success like Rick does.",
-        name: "Chris Brown",
-        designation: "COO",
-        company: "DEF Corp",
+            "Proactive and Professional way of working, Good seller",
+        name: "DeHypto",
+        designation: "Client",
+        company: "Fiverp",
+        image: "https://randomuser.me/api/portraits/men/2.jpg",
+    },
+    {
+        testimonial:
+            "Very fast and excellent delivery, enjoyed working with him, It's a pleasure working with him highly recommended.",
+        name: "SleeHom",
+        designation: "Client",
+        company: "Fiver",
+        image: "https://randomuser.me/api/portraits/men/3.jpg",
+    },
+    {
+        testimonial:
+            "Very perfect, made the right choice working with him, Thanks for the Good work, Highly recommended",
+        name: "Lerthert",
+        designation: "Client",
+        company: "Fiver",
+        image: "https://randomuser.me/api/portraits/men/4.jpg",
+    },
+    {
+        testimonial:
+            "work was well done",
+        name: "bless7",
+        designation: "Client",
+        company: "Fiver",
         image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
     {
         testimonial:
-            "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-        name: "Lisa Wang",
-        designation: "CTO",
-        company: "456 Enterprises",
-        image: "https://randomuser.me/api/portraits/women/6.jpg",
+            "good job. proper work.",
+        name: "tjdavis",
+        designation: "Client",
+        company: "Fiver",
+        image: "https://randomuser.me/api/portraits/men/6.jpg",
+    },
+    {
+        testimonial:
+            "Amazing delivery and before time ! Kind, friendly and helpful. Would order again. Thank you :)",
+        name: "secretdoctor",
+        designation: "Client",
+        company: "Fiver",
+        image: "https://randomuser.me/api/portraits/men/7.jpg",
+    },
+    {
+        testimonial:
+            "amazing work, give a try to this seller",
+        name: "mrhazwansalam",
+        designation: "Client",
+        company: "Fiver",
+        image: "https://randomuser.me/api/portraits/men/8.jpg",
+    },
+    {
+        testimonial:
+            "make my 3rd order with him, he is so friendly..... mostly recommended",
+        name: "mrhazwansalam",
+        designation: "Client",
+        company: "Fiver",
+        image: "https://randomuser.me/api/portraits/men/8.jpg",
+    },
+    {
+        testimonial:
+            "ordered with him 2nd time.....this guy is amazing in every aspect",
+        name: "mrhazwansalam",
+        designation: "Client",
+        company: "Fiver",
+        image: "https://randomuser.me/api/portraits/men/8.jpg",
+    },
+    {
+        testimonial:
+            "Just tell him the complete requirements and the guy is good to go! I've ordered a Theme Integration of Angular and delivery was fine enough.",
+        name: "usamaabrar22",
+        designation: "Client",
+        company: "Fiver",
+        image: "https://randomuser.me/api/portraits/men/9.jpg",
+    },
+    {
+        testimonial:
+            "It was a wonderful experience.. Me as a freelancer would recommend Mr Behlole. My work done before time and Also beautiful way of conversation.. Shall give him order soon.",
+        name: "Ali Imam",
+        designation: "Client",
+        company: "Fiver",
+        image: "https://randomuser.me/api/portraits/men/10.jpg",
     },
 ];
 
