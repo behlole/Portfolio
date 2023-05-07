@@ -15,13 +15,10 @@ import {
     git,
     figma,
     docker,
-    meta,
-    tesla,
-    shopify,
     carrent,
     jobit,
     tripguide,
-    threejs, cloudtek, aksaSds, deltaShoppe,
+    threejs, cloudtek, aksaSds, deltaShoppe, java, angular, sangular,
 } from "../assets";
 
 export const navLinks = [
@@ -41,11 +38,11 @@ export const navLinks = [
 
 const services = [
     {
-        title: "Web Developer",
+        title: "Full-Stack Developer",
         icon: web,
     },
     {
-        title: "React Native Developer",
+        title: "Mobile App Developer",
         icon: mobile,
     },
     {
@@ -53,7 +50,7 @@ const services = [
         icon: backend,
     },
     {
-        title: "Content Creator",
+        title: "Front-end Developer",
         icon: creator,
     },
 ];
@@ -92,12 +89,16 @@ const technologies = [
         icon: nodejs,
     },
     {
+        name: 'Java',
+        icon: java,
+    },
+    {
         name: "MongoDB",
         icon: mongodb,
     },
     {
-        name: "Three JS",
-        icon: threejs,
+        name: "Angular",
+        icon: angular,
     },
     {
         name: "git",
@@ -111,6 +112,7 @@ const technologies = [
         name: "docker",
         icon: docker,
     },
+
 ];
 
 const experiences = [

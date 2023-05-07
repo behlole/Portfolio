@@ -33,6 +33,10 @@ import cloudtek from './company/cloudtek.jpeg';
 import aksaSds from './company/aksa-sds.png';
 import deltaShoppe from './company/deltashoppe.jpeg';
 
+import java from './tech/java.png';
+import angular from './tech/angular.png';
+import sangular from './tech/sangular.png';
+
 export {
     logo,
     backend,
@@ -64,5 +68,8 @@ export {
     tripguide,
     cloudtek,
     aksaSds,
-    deltaShoppe
+    deltaShoppe,
+    java,
+    angular,
+    sangular
 };
