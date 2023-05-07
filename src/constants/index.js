@@ -112,7 +112,10 @@ const technologies = [
         name: "docker",
         icon: docker,
     },
-
+    {
+        name: "Spring + Angular",
+        icon: sangular,
+    },
 ];
 
 const experiences = [
