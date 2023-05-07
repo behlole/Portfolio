@@ -83,10 +83,6 @@ const technologies = [
         icon: redux,
     },
     {
-        name: "JavaScript",
-        icon: javascript,
-    },
-    {
         name: "TypeScript",
         icon: typescript,
     },
