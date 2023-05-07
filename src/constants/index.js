@@ -3,20 +3,28 @@ import {
     backend,
     creator,
     web,
-    javascript,
     typescript,
-    html,
-    css,
     reactjs,
     redux,
     tailwind,
     nodejs,
     mongodb,
-    figma,
     docker,
     carrent,
     jobit,
-    tripguide, cloudtek, aksaSds, deltaShoppe, java, angular, laravel, nextjs, postgresql, git,
+    tripguide,
+    cloudtek,
+    aksaSds,
+    deltaShoppe,
+    java,
+    angular,
+    laravel,
+    nextjs,
+    postgresql,
+    git,
+    mysimplerx,
+    vars,
+    flexigolf, chotok, portfolio, ugap, edfry,
 } from "../assets";
 
 export const navLinks = [
@@ -196,30 +204,76 @@ const testimonials = [
 
 const projects = [
     {
-        name: "Car Rent",
+        name: "Portfolio",
         description:
-            "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+            "behlole.github.io is a personal website showcasing my portfolio and projects. It offers a glimpse into my skills, experience, and creative work, providing an opportunity to explore  talents and accomplishments.",
         tags: [
             {
                 name: "react",
                 color: "blue-text-gradient",
             },
             {
-                name: "mongodb",
+                name: "threejs",
+                color: "red-text-gradient",
+            },
+            {
+                name: "vitejs",
                 color: "green-text-gradient",
             },
             {
-                name: "tailwind",
+                name: "tailwindcss",
                 color: "pink-text-gradient",
             },
+            {
+                name: "java",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "springBoot",
+                color: "red-text-gradient",
+            },
+            {
+                name: "microservices",
+                color: "blue-text-gradient",
+            },
         ],
-        image: carrent,
-        source_code_link: "https://github.com/",
+
+        image: portfolio,
+        source_code_link: "https://behlole.github.io",
     },
     {
-        name: "Job IT",
+        name: "MySimpleRx",
         description:
-            "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+            "MySimplerx.com is a user-friendly website that simplifies medication management. It offers secure prescription storage, medication tracking, and refill requests, ensuring easy organization and adherence to treatment plans.",
+        tags: [
+            {
+                name: "angular",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "laravel",
+                color: "green-text-gradient",
+            },
+            {
+                name: "postgresql",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "laravelLumen",
+                color: "red-text-gradient",
+            },
+            {
+                name: "microservices",
+                color: "blue-text-gradient",
+            },
+        ],
+        image: mysimplerx,
+        source_code_link: "https://mysimplerx.com",
+    },
+    {
+        name: "VARS",
+        description:
+            "dedicated platform within MySimplerx.com that provides valuable insights and analytics for medication usage. It offers users comprehensive data and visualizations to track medication adherence, patterns, and trends, enabling informed decision-making for improved health management.",
         tags: [
             {
                 name: "react",
@@ -233,31 +287,190 @@ const projects = [
                 name: "scss",
                 color: "pink-text-gradient",
             },
-        ],
-        image: jobit,
-        source_code_link: "https://github.com/",
-    },
-    {
-        name: "Trip Guide",
-        description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-        tags: [
             {
-                name: "nextjs",
+                name: "angular",
                 color: "blue-text-gradient",
             },
             {
-                name: "supabase",
+                name: "laravel",
                 color: "green-text-gradient",
             },
             {
-                name: "css",
+                name: "postgresql",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "laravelLumen",
+                color: "red-text-gradient",
+            },
+            {
+                name: "microservices",
+                color: "blue-text-gradient",
+            },
+        ],
+        image: vars,
+        source_code_link: "https://vars.mysimplerx.com",
+    },
+    {
+        name: "FlexiGolf",
+        description:
+            "website that offers a flexible and convenient way to book and manage golf tee times in Australia. With a user-friendly interface, golf enthusiasts can easily search for available tee times at various courses, book their preferred slots, and even invite friends to join their game. FlexiGolf.com.au aims to streamline the golf booking process, providing golfers with a hassle-free experience and ensuring they make the most of their time on the greens.",
+        tags: [
+            {
+                name: "react",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "restapi",
+                color: "green-text-gradient",
+            },
+            {
+                name: "scss",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "angular",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "laravel",
+                color: "green-text-gradient",
+            },
+            {
+                name: "postgresql",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "laravelLumen",
+                color: "red-text-gradient",
+            },
+            {
+                name: "microservices",
+                color: "blue-text-gradient",
+            },
+        ],
+
+        image: flexigolf,
+        source_code_link: "https://flexigolf.com.au",
+    },
+    {
+        name: "Chotok",
+        description:
+            "Chotok is a website that provides a convenient and hassle-free platform for online ticket booking. With a wide range of options for various events and activities, users can easily find and purchase tickets for their preferred entertainment and leisure experiences.",
+        tags: [
+            {
+                name: "react",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "restapi",
+                color: "green-text-gradient",
+            },
+            {
+                name: "scss",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "angular",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "laravel",
+                color: "green-text-gradient",
+            },
+            {
+                name: "postgresql",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "laravelLumen",
+                color: "red-text-gradient",
+            },
+            {
+                name: "microservices",
+                color: "blue-text-gradient",
+            },
+        ],
+
+        image: chotok,
+        source_code_link: "https://chotok.com",
+    },
+    {
+        name: "UGAP",
+        description:
+            "ugap.net is a website that serves as a platform for the UGAP (Union des Groupements d'Achats Publics) organization. It offers comprehensive information and resources related to public procurement, providing government entities and public institutions with access to procurement solutions, contracts, and procurement advice.",
+        tags: [
+            {
+                name: "laravel",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "restapi",
+                color: "green-text-gradient",
+            },
+            {
+                name: "scss",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "html",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "laravel",
+                color: "green-text-gradient",
+            },
+            {
+                name: "mysql",
                 color: "pink-text-gradient",
             },
         ],
-        image: tripguide,
-        source_code_link: "https://github.com/",
+
+        image: ugap,
+        source_code_link: "https://ugap.net",
     },
+    {
+        name: "EdFry",
+        description:
+            "edfry.co is a website that provides a platform for booking mentorship sessions with Ed Fry. As a seasoned mentor, Ed offers guidance and expertise in various areas such as software development, design, and professional growth. Visitors can schedule sessions with Ed to gain valuable insights and advice to advance their careers.",
+        tags: [
+            {
+                name: "react",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "restapi",
+                color: "green-text-gradient",
+            },
+            {
+                name: "scss",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "angular",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "laravel",
+                color: "green-text-gradient",
+            },
+            {
+                name: "postgresql",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "laravelLumen",
+                color: "red-text-gradient",
+            },
+            {
+                name: "microservices",
+                color: "blue-text-gradient",
+            },
+        ],
+        image: edfry,
+        source_code_link: "https://edfry.co",
+    },
+
 ];
 
 export {services, technologies, experiences, testimonials, projects};
